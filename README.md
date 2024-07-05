@@ -9,16 +9,16 @@ Soy un desarrollador Full-Stack especializado en .NET y Angular. Tengo experienc
 ### 🛠️ Tecnologías y Herramientas
 
 #### Frontend
-![Frontend](https://skillicons.dev/icons?i=angular,typescript,bootstrap,html,css,javascript,sass&theme=light)
+![Frontend](https://skillicons.dev/icons?i=angular,redux,typescript,bootstrap,html,css,javascript,sass&theme=light)
 
 #### Backend
 ![Backend](https://skillicons.dev/icons?i=dotnet,spring,nodejs,express&theme=light)
 
 #### Bases de Datos
-![Bases de Datos](https://skillicons.dev/icons?i=mysql&theme=light)
+![Bases de Datos](https://skillicons.dev/icons?i=mysql,postgres&theme=light)
 
 #### Otras Herramientas
-![Otras Herramientas](https://skillicons.dev/icons?i=git,postman,sequelize,github,ubuntu,sketchup,redux&theme=light)
+![Otras Herramientas](https://skillicons.dev/icons?i=docker,aws,azure,git,postman,sequelize,github,maven,npm,ubuntu,sketchup,redux&theme=light)
 
 
 #### Entornos de Desarrollo y Editores
