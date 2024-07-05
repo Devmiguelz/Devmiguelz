@@ -29,7 +29,7 @@ Soy un desarrollador Full-Stack especializado en .NET y Angular. Tengo experienc
 
 ### 🚀 Sobre mí
 
-- 🌱 Actualmente, estoy mejorando mis habilidades en Java Spring Boot y explorando nuevas tecnologías.
+- 🌱 Actualmente, estoy mejorando mis habilidades en .NET Core 8, Java Spring Boot 3, AWS, Docker, CI/CD y explorando nuevas tecnologías.
 - 💼 Estoy buscando nuevas oportunidades para colaborar en proyectos interesantes.
 - 📫 Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/miguel-zambrano-herrera/)
 
